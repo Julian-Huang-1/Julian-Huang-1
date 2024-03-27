@@ -10,3 +10,5 @@
 hjxylgogogo/hjxylgogogo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=hjxylgogogo&show_icons=true&theme=tokyonight)
+![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=hjxylgogogo&layout=compact&theme=tokyonight)
